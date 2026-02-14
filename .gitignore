@@ -1,0 +1,19 @@
+# Hugo build output
+public/
+resources/_gen/
+.hugo_build.lock
+
+# Windows noise
+desktop.ini
+Thumbs.db
+
+```bash
+#others
+node_modules
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes

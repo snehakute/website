@@ -1,0 +1,35 @@
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  let lastScroll = 0;
+  const header = document.querySelector('.fixed.inset-x-0');
+  const body = document.body;
+  
+  if (!header) return;
+  
+  window.addEventListener('scroll', function() {
+    const currentScroll = window.pageYOffset;
+    
+    // Toggle scrolled class based on scroll position
+    if (currentScroll > 50) {
+      body.classList.add('scrolled');
+    } else {
+      body.classList.remove('scrolled');
+    }
+    
+    // Header hide/show logic (optional)
+    if (currentScroll <= 0) {
+      header.style.transform = 'translateY(0)';
+      return;
+    }
+    
+    if (currentScroll > lastScroll && currentScroll > 150) {
+      header.style.transform = 'translateY(-100%)';
+    } else if (currentScroll < lastScroll && currentScroll > 50) {
+      header.style.transform = 'translateY(0)';
+    }
+    
+    header.style.transition = 'transform 0.3s ease';
+    lastScroll = currentScroll;
+  });
+});
+</script>

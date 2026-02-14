@@ -1,0 +1,57 @@
+[[main]]
+name = "About"
+pageRef = "about"
+weight = 1
+
+[[main]]
+name = "Posts"
+pageRef = "posts"
+weight = 2
+
+[[main]]
+name = "Projects"
+pageRef = "projects"
+weight = 3
+
+[[main]]
+name = "Resume"
+pageRef = "cv"
+weight = 4
+
+[[main]]
+name = "Art"
+pageRef = "art"
+weight = 5
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+[[footer]]
+name = "Topics"
+pageRef = "topics"
+weight = 1
+
+[[footer]]
+name = "Labels"
+pageRef = "labels"
+weight = 2
+
+
+[[footer]]
+identifier = "pinterest"
+pre = "pinterest"
+url = "https://uk.pinterest.com/vycour/_created/"
+weight = 300
+
+[[footer]]
+identifier = "linkedin"
+pre = "linkedin"
+url = "https://www.linkedin.com/company/vycour/"
+weight = 400
+
+[[footer]]
+identifier = "substack"
+pre = "substack"
+url = "https://substack.com/@vycour?"
+weight = 500

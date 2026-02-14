@@ -1,0 +1,9 @@
+<h2>Latest Articles</h2>
+{{ range first 3 (where .Site.RegularPages "Section" "articles") }}
+  {{ partial "article-link/card.html" . }}
+{{ end }}
+
+<h2>Latest Blog Posts</h2>
+{{ range first 3 (where .Site.RegularPages "Section" "blog") }}
+  {{ partial "article-link/card.html" . }}
+{{ end }}
