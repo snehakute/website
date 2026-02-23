@@ -79,33 +79,6 @@ showRelatedContent: false
       <td>Nov 2018 – Jul 2022</td>
       <td>Navi Mumbai, India</td>
     </tr>
-  </tbody>
-</table>
-
-## Additional Experience
-
-<table class="resume-table">
-  <thead>
-    <tr>
-      <th>Organisation</th>
-      <th>Link</th>
-      <th>Role</th>
-      <th>Dates</th>
-      <th>Location</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <img class="resume-logo" src="air.png" alt="Autism in Racing" width="80" height="80">
-      </td>
-      <td>
-        <a href="https://www.autisminracing.com" target="_blank" rel="noopener">Autism in Racing</a>
-      </td>
-      <td>Host (Ad Hoc)</td>
-      <td>Mar 2025 – Present</td>
-      <td>UK</td>
-    </tr>
     <tr>
       <td>
         <img class="resume-logo" src="lowry.png" alt="The Lowry: Beyond Van Gogh" width="80" height="80">
