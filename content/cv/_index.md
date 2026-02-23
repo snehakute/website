@@ -43,7 +43,7 @@ showRelatedContent: false
       <td rowspan="2">Hybrid<br>UK</td>
     </tr>
     <tr>
-      <td>Host (Ad Hoc)</td>
+      <td>Freelance Host </td>
       <td>Mar 2025 – Present</td>
     </tr>
     <tr>
