@@ -5,17 +5,17 @@ draft: false
 list:
   cardView: true
   groupByYear: false
-showDate : false
-showDateUpdated : false
-showHeadingAnchors : false
-showPagination : false
-showReadingTime : false
-showTableOfContents : true
-showTaxonomies : false 
-showWordCount : false
-showSummary : false
-sharingLinks : false
-showRelatedContent : false
+showDate: false
+showDateUpdated: false
+showHeadingAnchors: false
+showPagination: false
+showReadingTime: false
+showTableOfContents: true
+showTaxonomies: false
+showWordCount: false
+showSummary: false
+sharingLinks: false
+showRelatedContent: false
 ---
 
 ## Work Experience
@@ -31,10 +31,9 @@ showRelatedContent : false
     </tr>
   </thead>
   <tbody>
-    <!-- Autism in Racing (2 roles) -->
     <tr>
       <td rowspan="2">
-        <img src="air.png" alt="Autism in Racing" width="80" height="80" style="min-width:80px;">
+        <img class="resume-logo" src="air.png" alt="Autism in Racing" width="80" height="80">
       </td>
       <td rowspan="2">
         <a href="https://www.autisminracing.com" target="_blank" rel="noopener">Autism in Racing</a>
@@ -47,11 +46,9 @@ showRelatedContent : false
       <td>Host (Ad Hoc)</td>
       <td>Mar 2025 – Present</td>
     </tr>
-
-    <!-- Daniel Klein -->
     <tr>
       <td>
-        <img src="dk.png" alt="Daniel Klein" width="80" height="80" style="min-width:80px;">
+        <img class="resume-logo" src="dk.png" alt="Daniel Klein" width="80" height="80">
       </td>
       <td>
         <a href="https://danielklein.in/" target="_blank" rel="noopener">Daniel Klein</a>
@@ -60,11 +57,9 @@ showRelatedContent : false
       <td>Aug 2022 – Sep 2023</td>
       <td>Mumbai, India</td>
     </tr>
-
-    <!-- M Diamonds -->
     <tr>
       <td>
-        <img src="md.png" alt="M Diamonds" width="80" height="80" style="min-width:80px;">
+        <img class="resume-logo" src="md.png" alt="M Diamonds" width="80" height="80">
       </td>
       <td>
         <a href="https://mdiamonds.in/" target="_blank" rel="noopener">M Diamonds</a>
@@ -73,11 +68,9 @@ showRelatedContent : false
       <td>Jun 2020 – Sep 2020</td>
       <td>Kerala, India</td>
     </tr>
-
-    <!-- Bitspace -->
     <tr>
       <td>
-        <img src="bitspace.png" alt="Bitspace" width="80" height="80" style="min-width:80px;">
+        <img class="resume-logo" src="bitspace.png" alt="Bitspace" width="80" height="80">
       </td>
       <td>
         <a href="https://bitspace.co.in/" target="_blank" rel="noopener">Bitspace</a>
@@ -102,10 +95,9 @@ showRelatedContent : false
     </tr>
   </thead>
   <tbody>
-    <!-- Autism in Racing -->
     <tr>
       <td>
-        <img src="air.png" alt="Autism in Racing" width="80" height="80" style="min-width:80px;">
+        <img class="resume-logo" src="air.png" alt="Autism in Racing" width="80" height="80">
       </td>
       <td>
         <a href="https://www.autisminracing.com" target="_blank" rel="noopener">Autism in Racing</a>
@@ -114,11 +106,9 @@ showRelatedContent : false
       <td>Mar 2025 – Present</td>
       <td>UK</td>
     </tr>
-
-    <!-- The Lowry -->
     <tr>
       <td>
-        <img src="lowry.png" alt="The Lowry: Beyond Van Gogh" width="80" height="80" style="min-width:80px;">
+        <img class="resume-logo" src="lowry.png" alt="The Lowry: Beyond Van Gogh" width="80" height="80">
       </td>
       <td>
         <a href="https://thelowry.com/" target="_blank" rel="noopener">The Lowry: Beyond Van Gogh</a>
@@ -127,11 +117,9 @@ showRelatedContent : false
       <td>Jul 2024 – Oct 2024</td>
       <td>Birmingham, UK</td>
     </tr>
-
-    <!-- Frames Film Festival -->
     <tr>
       <td>
-        <img src="fff.png" alt="Frames Film Festival" width="80" height="80" style="min-width:80px;">
+        <img class="resume-logo" src="fff.png" alt="Frames Film Festival" width="80" height="80">
       </td>
       <td>
         <a href="https://filmfreeway.com/FramesFilmFestival23" target="_blank" rel="noopener">Frames Film Festival</a>
@@ -158,7 +146,7 @@ showRelatedContent : false
   <tbody>
     <tr>
       <td>
-        <img src="mmu.png" alt="Manchester Metropolitan University" width="80" height="80" style="min-width:80px;">
+        <img class="resume-logo" src="mmu.png" alt="Manchester Metropolitan University" width="80" height="80">
       </td>
       <td>
         <a href="https://www.mmu.ac.uk" target="_blank" rel="noopener">Manchester Metropolitan University</a>
@@ -183,7 +171,7 @@ showRelatedContent : false
   <tbody>
     <tr>
       <td>
-        <img src="apm.png" alt="Association for Project Management" width="80" height="80" style="min-width:80px;">
+        <img class="resume-logo" src="apm.png" alt="Association for Project Management" width="80" height="80">
       </td>
       <td>
         <a href="https://www.apm.org.uk" target="_blank" rel="noopener">Association for Project Management</a>
@@ -192,7 +180,7 @@ showRelatedContent : false
     </tr>
     <tr>
       <td>
-        <img src="uc.png" alt="University of California, Davis" width="80" height="80" style="min-width:80px;">
+        <img class="resume-logo" src="uc.png" alt="University of California, Davis" width="80" height="80">
       </td>
       <td>
         <a href="https://www.ucdavis.edu" target="_blank" rel="noopener">University of California, Davis</a>
@@ -218,17 +206,7 @@ showRelatedContent : false
 {{< /keywordList >}}
 
 <style>
-  /* Optional: small improvements without needing theme overrides */
-  table.resume-table {
-    width: 100%;
-    border-collapse: collapse;
-  }
-  table.resume-table th,
-  table.resume-table td {
-    padding: 10px;
-    vertical-align: top;
-  }
-  table.resume-table td img {
-    display: block;
-  }
+  table.resume-table { width: 100%; border-collapse: collapse; }
+  table.resume-table th, table.resume-table td { padding: 10px; vertical-align: top; }
+  img.resume-logo { display: block; min-width: 80px; height: auto; }
 </style>
