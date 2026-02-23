@@ -22,20 +22,19 @@ showRelatedContent : false
 
 | Organisation | Link | Role | Dates | Location |
 |--------------|------|------|-------|----------|
-| [<img src="/images/air.png" width="80">] | [Autism in Racing](https://www.autisminracing.com) | Freelance Marketing & Fundraising Officer | Oct 2025 – Present | Hybrid<br>UK |
-| [<img src="/images/dk.png" width="80">] | [Daniel Klein](https://danielklein.in/) | Marketing Manager | Aug 2022 – Sep 2023 | Mumbai, India |
-| [<img src="/images/md.png" width="80">] | [M Diamonds](https://mdiamonds.in/) | Freelance Concept Artist | Jun 2020 – Sep 2020 | Kerala, India |
-| [<img src="/images/bitspace.png" width="80">] | [Bitspace](https://bitspace.co.in/) | Marketing Executive | Nov 2018 – Jul 2022 | Navi Mumbai, India |
+| <img src="/images/air.png" width="80"> | [Autism in Racing](https://www.autisminracing.com) | Freelance Marketing & Fundraising Officer | Oct 2025 – Present | Hybrid<br>UK |
+| <img src="/images/dk.png" width="80"> | [Daniel Klein](https://danielklein.in/) | Marketing Manager | Aug 2022 – Sep 2023 | Mumbai, India |
+| <img src="/images/md.png" width="80"> | [M Diamonds](https://mdiamonds.in/) | Freelance Concept Artist | Jun 2020 – Sep 2020 | Kerala, India |
+| <img src="/images/bitspace.png" width="80"> | [Bitspace](https://bitspace.co.in/) | Marketing Executive | Nov 2018 – Jul 2022 | Navi Mumbai, India |
 
 
 ## Additional Experience
 
-| Organisation | Role | Dates | Location |
-|--------------|------|-------|----------|
-| [<img src="/images/air.png" width="80"> Autism in Racing](https://www.autisminracing.com) | Host (Ad Hoc) | Mar 2025 – Present | UK |
-| [<img src="/images/lowry.png" width="80"> The Lowry: Beyond Van Gogh](#) | Front of House (Ad Hoc) | Jul 2024 – Oct 2024 | Birmingham, UK |
-| [<img src="/images/fff.png" width="80"> Frames Film Festival](#) | Chairperson | Feb 2019 – Apr 2021 | Mumbai, India |
-| [<img src="/images/md.png" width="80"> M Diamonds](#) | Concept Artist (Project) | Jun 2020 – Sep 2020 | Kerala, India |
+| Organisation | Link | Role | Dates | Location |
+|--------------|------|------|-------|----------|
+| <img src="/images/air.png" width="80"> | [Autism in Racing](https://www.autisminracing.com) | Host (Ad Hoc) | Mar 2025 – Present | UK |
+| <img src="/images/lowry.png" width="80"> | [The Lowry: Beyond Van Gogh](https://thelowry.com/) | Front of House (Ad Hoc) | Jul 2024 – Oct 2024 | Birmingham, UK |
+| <img src="/images/fff.png" width="80"> | [Frames Film Festival](https://filmfreeway.com/FramesFilmFestival23) | Chairperson | Feb 2019 – Apr 2021 | Mumbai, India |
 
 
 ## Education
