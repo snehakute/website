@@ -180,6 +180,15 @@ showRelatedContent: false
 
 <style>
   table.resume-table { width: 100%; border-collapse: collapse; }
-  table.resume-table th, table.resume-table td { padding: 10px; vertical-align: middle; }
-  img.resume-logo { display: block; min-width: 80px; height: auto; }
+  table.resume-table th,
+  table.resume-table td { padding: 10px;
+    text-align: center !important;
+    vertical-align: middle !important;
+  }
+
+  table.resume-table img {
+    display: block;
+    min-width: 80px; height: auto;
+    margin: 0 auto;
+  }
 </style>
