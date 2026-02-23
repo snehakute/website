@@ -2,177 +2,205 @@
 title: ""
 date: 2022-06-13T20:55:37+01:00
 draft: false
-showDate: false
-showDateUpdated: false
-showHeadingAnchors: false
-showPagination: false
-showReadingTime: false
-showTableOfContents: true
-showTaxonomies: false
-showWordCount: false
-showSummary: false
-sharingLinks: false
-showRelatedContent: false
+list:
+  cardView: true
+  groupByYear: false
+showDate : false
+showDateUpdated : false
+showHeadingAnchors : false
+showPagination : false
+showReadingTime : false
+showTableOfContents : true
+showTaxonomies : false 
+showWordCount : false
+showSummary : false
+sharingLinks : false
+showRelatedContent : false
 ---
 
 ## Work Experience
 
-<div class="flex gap-4 items-start mb-8">
-  <img src="air.png" alt="Autism in Racing" width="80" height="80" style="min-width:80px; border-radius:12px;">
-  <div>
-    <div class="text-lg font-semibold">
-      <a href="https://www.autisminracing.com" target="_blank" rel="noopener">Autism in Racing</a>
-    </div>
-    <div class="text-sm opacity-80">Hybrid · UK</div>
+<table class="resume-table">
+  <thead>
+    <tr>
+      <th>Organisation</th>
+      <th>Link</th>
+      <th>Role</th>
+      <th>Dates</th>
+      <th>Location</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Autism in Racing (2 roles) -->
+    <tr>
+      <td rowspan="2">
+        <img src="air.png" alt="Autism in Racing" width="80" height="80" style="min-width:80px;">
+      </td>
+      <td rowspan="2">
+        <a href="https://www.autisminracing.com" target="_blank" rel="noopener">Autism in Racing</a>
+      </td>
+      <td>Freelance Marketing &amp; Fundraising Officer</td>
+      <td>Oct 2025 – Present</td>
+      <td rowspan="2">Hybrid<br>UK</td>
+    </tr>
+    <tr>
+      <td>Host (Ad Hoc)</td>
+      <td>Mar 2025 – Present</td>
+    </tr>
 
-    <div class="mt-3">
-      <div><strong>Freelance Marketing &amp; Fundraising Officer</strong></div>
-      <div class="text-sm opacity-80">Oct 2025 – Present</div>
-    </div>
+    <!-- Daniel Klein -->
+    <tr>
+      <td>
+        <img src="dk.png" alt="Daniel Klein" width="80" height="80" style="min-width:80px;">
+      </td>
+      <td>
+        <a href="https://danielklein.in/" target="_blank" rel="noopener">Daniel Klein</a>
+      </td>
+      <td>Marketing Manager</td>
+      <td>Aug 2022 – Sep 2023</td>
+      <td>Mumbai, India</td>
+    </tr>
 
-    <hr class="my-4">
+    <!-- M Diamonds -->
+    <tr>
+      <td>
+        <img src="md.png" alt="M Diamonds" width="80" height="80" style="min-width:80px;">
+      </td>
+      <td>
+        <a href="https://mdiamonds.in/" target="_blank" rel="noopener">M Diamonds</a>
+      </td>
+      <td>Freelance Concept Artist</td>
+      <td>Jun 2020 – Sep 2020</td>
+      <td>Kerala, India</td>
+    </tr>
 
-    <div>
-      <div><strong>Host (Ad Hoc)</strong></div>
-      <div class="text-sm opacity-80">Mar 2025 – Present</div>
-    </div>
-  </div>
-</div>
-
-<div class="flex gap-4 items-start mb-8">
-  <img src="dk.png" alt="Daniel Klein" width="80" height="80" style="min-width:80px; border-radius:12px;">
-  <div>
-    <div class="text-lg font-semibold">
-      <a href="https://danielklein.in/" target="_blank" rel="noopener">Daniel Klein</a>
-    </div>
-    <div class="text-sm opacity-80">Mumbai, India</div>
-
-    <div class="mt-3">
-      <div><strong>Marketing Manager</strong></div>
-      <div class="text-sm opacity-80">Aug 2022 – Sep 2023</div>
-    </div>
-  </div>
-</div>
-
-<div class="flex gap-4 items-start mb-8">
-  <img src="md.png" alt="M Diamonds" width="80" height="80" style="min-width:80px; border-radius:12px;">
-  <div>
-    <div class="text-lg font-semibold">
-      <a href="https://mdiamonds.in/" target="_blank" rel="noopener">M Diamonds</a>
-    </div>
-    <div class="text-sm opacity-80">Kerala, India</div>
-
-    <div class="mt-3">
-      <div><strong>Freelance Concept Artist</strong></div>
-      <div class="text-sm opacity-80">Jun 2020 – Sep 2020</div>
-    </div>
-  </div>
-</div>
-
-<div class="flex gap-4 items-start mb-8">
-  <img src="bitspace.png" alt="Bitspace" width="80" height="80" style="min-width:80px; border-radius:12px;">
-  <div>
-    <div class="text-lg font-semibold">
-      <a href="https://bitspace.co.in/" target="_blank" rel="noopener">Bitspace</a>
-    </div>
-    <div class="text-sm opacity-80">Navi Mumbai, India</div>
-
-    <div class="mt-3">
-      <div><strong>Marketing Executive</strong></div>
-      <div class="text-sm opacity-80">Nov 2018 – Jul 2022</div>
-    </div>
-  </div>
-</div>
+    <!-- Bitspace -->
+    <tr>
+      <td>
+        <img src="bitspace.png" alt="Bitspace" width="80" height="80" style="min-width:80px;">
+      </td>
+      <td>
+        <a href="https://bitspace.co.in/" target="_blank" rel="noopener">Bitspace</a>
+      </td>
+      <td>Marketing Executive</td>
+      <td>Nov 2018 – Jul 2022</td>
+      <td>Navi Mumbai, India</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Additional Experience
 
-<div class="flex gap-4 items-start mb-8">
-  <img src="air.png" alt="Autism in Racing" width="80" height="80" style="min-width:80px; border-radius:12px;">
-  <div>
-    <div class="text-lg font-semibold">
-      <a href="https://www.autisminracing.com" target="_blank" rel="noopener">Autism in Racing</a>
-    </div>
-    <div class="text-sm opacity-80">UK</div>
+<table class="resume-table">
+  <thead>
+    <tr>
+      <th>Organisation</th>
+      <th>Link</th>
+      <th>Role</th>
+      <th>Dates</th>
+      <th>Location</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Autism in Racing -->
+    <tr>
+      <td>
+        <img src="air.png" alt="Autism in Racing" width="80" height="80" style="min-width:80px;">
+      </td>
+      <td>
+        <a href="https://www.autisminracing.com" target="_blank" rel="noopener">Autism in Racing</a>
+      </td>
+      <td>Host (Ad Hoc)</td>
+      <td>Mar 2025 – Present</td>
+      <td>UK</td>
+    </tr>
 
-    <div class="mt-3">
-      <div><strong>Host (Ad Hoc)</strong></div>
-      <div class="text-sm opacity-80">Mar 2025 – Present</div>
-    </div>
-  </div>
-</div>
+    <!-- The Lowry -->
+    <tr>
+      <td>
+        <img src="lowry.png" alt="The Lowry: Beyond Van Gogh" width="80" height="80" style="min-width:80px;">
+      </td>
+      <td>
+        <a href="https://thelowry.com/" target="_blank" rel="noopener">The Lowry: Beyond Van Gogh</a>
+      </td>
+      <td>Front of House (Ad Hoc)</td>
+      <td>Jul 2024 – Oct 2024</td>
+      <td>Birmingham, UK</td>
+    </tr>
 
-<div class="flex gap-4 items-start mb-8">
-  <img src="lowry.png" alt="The Lowry: Beyond Van Gogh" width="80" height="80" style="min-width:80px; border-radius:12px;">
-  <div>
-    <div class="text-lg font-semibold">
-      <a href="https://thelowry.com/" target="_blank" rel="noopener">The Lowry: Beyond Van Gogh</a>
-    </div>
-    <div class="text-sm opacity-80">Birmingham, UK</div>
-
-    <div class="mt-3">
-      <div><strong>Front of House (Ad Hoc)</strong></div>
-      <div class="text-sm opacity-80">Jul 2024 – Oct 2024</div>
-    </div>
-  </div>
-</div>
-
-<div class="flex gap-4 items-start mb-8">
-  <img src="fff.png" alt="Frames Film Festival" width="80" height="80" style="min-width:80px; border-radius:12px;">
-  <div>
-    <div class="text-lg font-semibold">
-      <a href="https://filmfreeway.com/FramesFilmFestival23" target="_blank" rel="noopener">Frames Film Festival</a>
-    </div>
-    <div class="text-sm opacity-80">Mumbai, India</div>
-
-    <div class="mt-3">
-      <div><strong>Chairperson</strong></div>
-      <div class="text-sm opacity-80">Feb 2019 – Apr 2021</div>
-    </div>
-  </div>
-</div>
+    <!-- Frames Film Festival -->
+    <tr>
+      <td>
+        <img src="fff.png" alt="Frames Film Festival" width="80" height="80" style="min-width:80px;">
+      </td>
+      <td>
+        <a href="https://filmfreeway.com/FramesFilmFestival23" target="_blank" rel="noopener">Frames Film Festival</a>
+      </td>
+      <td>Chairperson</td>
+      <td>Feb 2019 – Apr 2021</td>
+      <td>Mumbai, India</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Education
 
-<div class="flex gap-4 items-start mb-8">
-  <img src="mmu.png" alt="Manchester Metropolitan University" width="80" height="80" style="min-width:80px; border-radius:12px;">
-  <div>
-    <div class="text-lg font-semibold">
-      <a href="https://www.mmu.ac.uk" target="_blank" rel="noopener">Manchester Metropolitan University</a>
-    </div>
-    <div class="text-sm opacity-80">Manchester, UK</div>
-
-    <div class="mt-3">
-      <div><strong>MSc Management (Strategy, Enterprise &amp; Sustainability)</strong></div>
-      <div class="text-sm opacity-80">Jan 2024 – Jan 2025</div>
-    </div>
-  </div>
-</div>
+<table class="resume-table">
+  <thead>
+    <tr>
+      <th>Institution</th>
+      <th>Link</th>
+      <th>Degree</th>
+      <th>Dates</th>
+      <th>Location</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="mmu.png" alt="Manchester Metropolitan University" width="80" height="80" style="min-width:80px;">
+      </td>
+      <td>
+        <a href="https://www.mmu.ac.uk" target="_blank" rel="noopener">Manchester Metropolitan University</a>
+      </td>
+      <td>MSc Management (Strategy, Enterprise &amp; Sustainability)</td>
+      <td>Jan 2024 – Jan 2025</td>
+      <td>Manchester, UK</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Certifications
 
-<div class="flex gap-4 items-start mb-8">
-  <img src="apm.png" alt="Association for Project Management" width="80" height="80" style="min-width:80px; border-radius:12px;">
-  <div>
-    <div class="text-lg font-semibold">
-      <a href="https://www.apm.org.uk" target="_blank" rel="noopener">Association for Project Management</a>
-    </div>
-    <div class="mt-2">
-      <div><strong>APM Project Fundamentals Qualification (PFQ)</strong></div>
-    </div>
-  </div>
-</div>
-
-<div class="flex gap-4 items-start mb-8">
-  <img src="uc.png" alt="University of California, Davis" width="80" height="80" style="min-width:80px; border-radius:12px;">
-  <div>
-    <div class="text-lg font-semibold">
-      <a href="https://www.ucdavis.edu" target="_blank" rel="noopener">University of California, Davis</a>
-    </div>
-    <div class="mt-2">
-      <div><strong>The Strategy of Content Marketing</strong></div>
-    </div>
-  </div>
-</div>
+<table class="resume-table">
+  <thead>
+    <tr>
+      <th>Issuer</th>
+      <th>Link</th>
+      <th>Certification</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="apm.png" alt="Association for Project Management" width="80" height="80" style="min-width:80px;">
+      </td>
+      <td>
+        <a href="https://www.apm.org.uk" target="_blank" rel="noopener">Association for Project Management</a>
+      </td>
+      <td>APM Project Fundamentals Qualification (PFQ)</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="uc.png" alt="University of California, Davis" width="80" height="80" style="min-width:80px;">
+      </td>
+      <td>
+        <a href="https://www.ucdavis.edu" target="_blank" rel="noopener">University of California, Davis</a>
+      </td>
+      <td>The Strategy of Content Marketing</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Skills
 
@@ -188,3 +216,19 @@ showRelatedContent: false
 {{< keywordList >}}
 {{< keyword icon="tool" >}} Tools: SEMrush, Ahrefs, Moz, Adobe Creative Suite, SimilarWeb, Trello {{< /keyword >}}
 {{< /keywordList >}}
+
+<style>
+  /* Optional: small improvements without needing theme overrides */
+  table.resume-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  table.resume-table th,
+  table.resume-table td {
+    padding: 10px;
+    vertical-align: top;
+  }
+  table.resume-table td img {
+    display: block;
+  }
+</style>
