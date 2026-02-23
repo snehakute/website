@@ -1,5 +1,5 @@
 theme = "blowfish" 
-# baseURL = "http://your_domain.com/"
+baseURL = "https://snehakute.github.io/website/"
 defaultContentLanguage = "en"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
