@@ -22,7 +22,7 @@ showRelatedContent : false
 
 | Organisation | Link | Role | Dates | Location |
 |--------------|------|------|-------|----------|
-| <img src="/images/air.png" width="80"> | [Autism in Racing](https://www.autisminracing.com) | Freelance Marketing & Fundraising Officer | Oct 2025 – Present | Hybrid<br>UK |
+| ![AIR](air.png) | [Autism in Racing](https://www.autisminracing.com) | Freelance Marketing & Fundraising Officer<br><hr><br>Host (Ad Hoc) | Oct 2025 – Present<br><hr><br>Mar 2025 – Present | Hybrid<br>UK |
 | <img src="/images/dk.png" width="80"> | [Daniel Klein](https://danielklein.in/) | Marketing Manager | Aug 2022 – Sep 2023 | Mumbai, India |
 | <img src="/images/md.png" width="80"> | [M Diamonds](https://mdiamonds.in/) | Freelance Concept Artist | Jun 2020 – Sep 2020 | Kerala, India |
 | <img src="/images/bitspace.png" width="80"> | [Bitspace](https://bitspace.co.in/) | Marketing Executive | Nov 2018 – Jul 2022 | Navi Mumbai, India |
