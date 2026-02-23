@@ -45,10 +45,10 @@ showRelatedContent : false
 
 ## Certifications
 
-| Issuer | Certification | 
-|---------|---------------|------|
-| [<img src="/images/apm.png" width="80"> Association for Project Management](https://www.apm.org.uk) | APM Project Fundamentals Qualification (PFQ) | 
-| [<img src="/images/uc.png" width="80"> University of California, Davis](https://www.ucdavis.edu) | The Strategy of Content Marketing | 
+| Issuer | Link | Certification | 
+|---------|------|---------------|
+| <img src="/images/apm.png" width="80"> [Association for Project Management](https://www.apm.org.uk) | APM Project Fundamentals Qualification (PFQ) | 
+| <img src="/images/uc.png" width="80"> [University of California, Davis](https://www.ucdavis.edu) | The Strategy of Content Marketing | 
 
 ## Skills
 
