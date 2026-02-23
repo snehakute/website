@@ -35,7 +35,7 @@ showRelatedContent: false
       <td rowspan="2">
         <img class="resume-logo" src="air.png" alt="Autism in Racing" width="80" height="80">
       </td>
-      <td rowspan="2">
+      <td rowspan="2" class="cell-center">
         <a href="https://www.autisminracing.com" target="_blank" rel="noopener">Autism in Racing</a>
       </td>
       <td>Freelance Marketing &amp; Fundraising Officer</td>
